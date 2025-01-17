@@ -1,11 +1,11 @@
-ANALYTICAL REPORT ON THE IMPACT OF SOCIAL MEDIA ON SUICIDE RATE FROM 2010 T0 2019
+**ANALYTICAL REPORT ON THE IMPACT OF SOCIAL MEDIA ON SUICIDE RATE FROM 2010 T0 2019**
 
 This analysis explores the impact of social media usage on suicide rates, presenting an analysis based on social media platform data and WHO suicide rate statistics. This was analysis was done to understand the correlation between increased social media activity and suicide rates across different regions and demographics. 
     The dataset includes the following key sources:
     WHO Suicide Rate Data (SDGSUICIDE): Retrieved from WHO data export, which tracks global suicide rates.
     Social Media Usage Data: Information from major social media platforms, sourced from Kaggle, supplemented with data from: Facebook (Statista), Twitter (Twitter Investor Relations) and Instagram (Facebook Investor Relations).
     
-OBSERVATIONS
+**OBSERVATIONS**
 
 The male gender committed more suicide averagely compared to the other two genders.
 
@@ -20,8 +20,8 @@ The average Facebook user Count is 2255.39The average Twitter user count is 462.
 The count of Gender is 3.
 
 
+**RECOMMENDATIONS**
 
-RECOMMENDATIONS
 The following receommendations wwas made based on the analysis: 
 
 There should be more mental health resources especially on social media to ensure inclusivity across all genders for maximum outreach.
