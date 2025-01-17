@@ -4,9 +4,8 @@ This analysis explores the impact of social media usage on suicide rates, presen
     The dataset includes the following key sources:
     WHO Suicide Rate Data (SDGSUICIDE): Retrieved from WHO data export, which tracks global suicide rates.
     Social Media Usage Data: Information from major social media platforms, sourced from Kaggle, supplemented with data from: Facebook (Statista), Twitter (Twitter Investor Relations) and Instagram (Facebook Investor Relations).
-
-
-    KEY INSIGHTS
+    
+OBSERVATIONS
 
 The male gender committed more suicide averagely compared to the other two genders.
 
